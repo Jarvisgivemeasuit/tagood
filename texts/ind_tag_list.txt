@@ -1,0 +1,1000 @@
+0 n01440764 鱼,fish
+1 n01443537 鱼,goldfish
+2 n01484850 鱼,shark
+3 n01491361 鱼,shark
+4 n01494475 鱼,shark
+5 n01496331 鱼,ray
+6 n01498041 鱼,stingray
+7 n01514668 鸡,cock
+8 n01514859 鸡,hen
+9 n01518878 鸵鸟,ostrich
+10 n01530575 鸟,bird
+11 n01531178 鸟,bird
+12 n01532829 鸟,house finch
+13 n01534433 鸟,bird
+14 n01537544 鸟,bluebird
+15 n01558993 鸟,robin
+16 n01560419 鸟,bird
+17 n01580077 鸟,jay
+18 n01582220 鸟,magpie
+19 n01592084 鸟,bird
+20 n01601694 鸟,bird
+21 n01608432 鸟,kite
+22 n01614925 鹰,bald eagle
+23 n01616318 鹰,vulture
+24 n01622779 猫头鹰,owl
+25 n01629819 壁虎,salamander
+26 n01630670 壁虎,salamander
+27 n01631663 壁虎,salamander
+28 n01632458 壁虎,salamander
+29 n01632777 壁虎,salamander
+30 n01641577 蛤蟆,frog
+31 n01644373 青蛙,tree frog
+32 n01644900 青蛙,frog
+33 n01664065 龟,sea turtle
+34 n01665541 龟,sea turtle
+35 n01667114 龟,tortoise
+36 n01667778 龟,tortoise
+37 n01669191 龟,box turtle
+38 n01675722 蜥蜴,gecko
+39 n01677366 蜥蜴,iguana
+40 n01682714 蜥蜴,chameleon
+41 n01685808 蜥蜴,lizard
+42 n01687978 蜥蜴,lizard
+43 n01688243 蜥蜴,lizard
+44 n01689811 蜥蜴,lizard
+45 n01692333 蜥蜴,lizard
+46 n01693334 蜥蜴,lizard
+47 n01694178 蜥蜴,chameleon
+48 n01695060 蜥蜴,lizard
+49 n01697457 鳄鱼,crocodile
+50 n01698640 鳄鱼,crocodile
+51 n01704323 恐龙,dinosaur
+52 n01728572 蛇,snake
+53 n01728920 蛇,snake
+54 n01729322 蛇,snake
+55 n01729977 蛇,snake
+56 n01734418 蛇,snake
+57 n01735189 蛇,snake
+58 n01737021 蛇,snake
+59 n01739381 蛇,snake
+60 n01740131 蛇,snake
+61 n01742172 蛇,python
+62 n01744401 蛇,python
+63 n01748264 蛇,snake
+64 n01749939 蛇,snake
+65 n01751748 蛇,snake
+66 n01753488 蛇,snake
+67 n01755581 蛇,snake
+68 n01756291 蛇,snake
+69 n01768244 化石,fossil
+70 n01770081 蜘蛛,spider
+71 n01770393 蝎子,scorpion
+72 n01773157 蜘蛛,garden spider
+73 n01773549 蜘蛛,spider
+74 n01773797 蜘蛛,garden spider
+75 n01774384 蜘蛛,spider
+76 n01774750 蜘蛛,spider
+77 n01775062 蜘蛛,spider
+78 n01776313 蜘蛛,tick
+79 n01784675 蜈蚣,centipede
+80 n01795545 鸟,pheasant
+81 n01796340 鸟,bird
+82 n01797886 鸟,partridge
+83 n01798484 鸟,bird
+84 n01806143 孔雀,peacock
+85 n01806567 鸟,quail
+86 n01807496 鸟,partridge
+87 n01817953 鸟,bird
+88 n01818515 鸟,macaw
+89 n01819313 鸟,parrot
+90 n01820546 鸟,parrot
+91 n01824575 鸟,bird
+92 n01828970 鸟,bird
+93 n01829413 鸟,hornbill
+94 n01833805 鸟,hummingbird
+95 n01843065 鸟,hummingbird
+96 n01843383 鸟,toucan
+97 n01847000 鸭子,mallard
+98 n01855032 鹅,duck
+99 n01855672 鹅,goose
+100 n01860187 鹅,swan
+101 n01871265 大象,elephant
+102 n01872401 刺猬,hedgehog
+103 n01873310 鸭嘴兽,duckbill
+104 n01877812 袋鼠,kangaroo
+105 n01882714 考拉,koala
+106 n01883070 土拨鼠,rodent
+107 n01910747 水母,jellyfish
+108 n01914609 珊瑚,anemone
+109 n01917289 珊瑚,coral reef
+110 n01924916 海洋生物,slug
+111 n01930112 海蛇,creature
+112 n01943899 海螺,conch
+113 n01944390 蜗牛,snail
+114 n01945685 蜗牛,slug
+115 n01950731 海洋生物,snail
+116 n01955084 海洋生物,shell
+117 n01968897 海螺,seashell
+118 n01978287 螃蟹,crab
+119 n01978455 螃蟹,crab
+120 n01980166 螃蟹,crab
+121 n01981276 螃蟹,king crab
+122 n01983481 龙虾,lobster
+123 n01984695 龙虾,lobster
+124 n01985128 龙虾,lobster
+125 n01986214 寄居蟹,hermit crab
+126 n01990800 海洋生物,isopod
+127 n02002556 鸟,stork
+128 n02002724 鸟,stork
+129 n02006656 鸟,stork
+130 n02007558 鸟,flamingo
+131 n02009229 鸟,heron
+132 n02009912 鸟,egret
+133 n02011460 鸟,bird
+134 n02012849 鸟,crane
+135 n02013706 鸟,water bird
+136 n02017213 鸟,bird
+137 n02018207 鸟,bird
+138 n02018795 鸟,bird
+139 n02025239 鸟,bird
+140 n02027492 鸟,bird
+141 n02028035 鸟,bird
+142 n02033041 鸟,bird
+143 n02037110 鸟,bird
+144 n02051845 鸟,pelican
+145 n02056570 企鹅,penguin
+146 n02058221 鸟,mollymawk
+147 n02066245 鲸鱼,humpback whale
+148 n02071294 鲸鱼,grampus
+149 n02074367 海象,manatee
+150 n02077923 海狮,sea lion
+151 n02085620 狗,chihuahua
+152 n02085782 狗,dog
+153 n02085936 狗,dog
+154 n02086079 狗,dog
+155 n02086240 狗,dog
+156 n02086646 狗,dog
+157 n02086910 狗,dog
+158 n02087046 狗,chihuahua
+159 n02087394 狗,dog
+160 n02088094 狗,dog
+161 n02088238 狗,beagle
+162 n02088364 狗,beagle
+163 n02088466 狗,dog
+164 n02088632 狗,dog
+165 n02089078 狗,dog
+166 n02089867 狗,dog
+167 n02089973 狗,beagle
+168 n02090379 狗,dog
+169 n02090622 狗,dog
+170 n02090721 狗,dog
+171 n02091032 狗,greyhound
+172 n02091134 狗,dog
+173 n02091244 狗,greyhound
+174 n02091467 狗,dog
+175 n02091635 狗,dog
+176 n02091831 狗,dog
+177 n02092002 狗,dog
+178 n02092339 狗,dog
+179 n02093256 狗,dog
+180 n02093428 狗,dog
+181 n02093647 狗,dog
+182 n02093754 狗,dog
+183 n02093859 狗,dog
+184 n02093991 狗,dog
+185 n02094114 狗,dog
+186 n02094258 狗,dog
+187 n02094433 狗,dog
+188 n02095314 狗,dog
+189 n02095570 狗,dog
+190 n02095889 狗,dog
+191 n02096051 狗,dog
+192 n02096177 狗,dog
+193 n02096294 狗,dog
+194 n02096437 狗,dog
+195 n02096585 狗,dog
+196 n02097047 狗,schnauzer
+197 n02097130 狗,schnauzer
+198 n02097209 狗,schnauzer
+199 n02097298 狗,dog
+200 n02097474 狗,dog
+201 n02097658 狗,dog
+202 n02098105 狗,dog
+203 n02098286 狗,dog
+204 n02098413 狗,dog
+205 n02099267 狗,retriever
+206 n02099429 狗,retriever
+207 n02099601 狗,golden retriever
+208 n02099712 狗,retriever
+209 n02099849 狗,retriever
+210 n02100236 狗,pointer
+211 n02100583 狗,pointer
+212 n02100735 狗,dog
+213 n02100877 狗,dog
+214 n02101006 狗,dog
+215 n02101388 狗,dog
+216 n02101556 狗,dog
+217 n02102040 狗,dog
+218 n02102177 狗,dog
+219 n02102318 狗,cocker
+220 n02102480 狗,dog
+221 n02102973 狗,dog
+222 n02104029 狗,dog
+223 n02104365 狗,dog
+224 n02105056 狗,dog
+225 n02105162 狗,dog
+226 n02105251 狗,dog
+227 n02105412 狗,dog
+228 n02105505 狗,sheepdog
+229 n02105641 狗,sheepdog
+230 n02105855 狗,sheepdog
+231 n02106030 狗,sheepdog
+232 n02106166 狗,Border collie
+233 n02106382 狗,dog
+234 n02106550 狗,rottweiler
+235 n02106662 狗,german shepherd
+236 n02107142 狗,doberman
+237 n02107312 狗,dog
+238 n02107574 狗,dog
+239 n02107683 狗,dog
+240 n02107908 狗,dog
+241 n02108000 狗,dog
+242 n02108089 狗,boxer
+243 n02108422 狗,dog
+244 n02108551 狗,dog
+245 n02108915 狗,bulldog
+246 n02109047 狗,dog
+247 n02109525 狗,dog
+248 n02109961 狗,husky
+249 n02110063 狗,husky
+250 n02110185 狗,husky
+251 n02110341 狗,dalmatian
+252 n02110627 狗,dog
+253 n02110806 狗,dog
+254 n02110958 狗,pug
+255 n02111129 狗,sheepdog
+256 n02111277 狗,newfoundland
+257 n02111500 狗,dog
+258 n02111889 狗,samoyed
+259 n02112018 狗,pomeranian
+260 n02112137 狗,dog
+261 n02112350 狗,dog
+262 n02112706 狗,dog
+263 n02113023 狗,dog
+264 n02113186 狗,cardigan
+265 n02113624 狗,poodle
+266 n02113712 狗,poodle
+267 n02113799 狗,poodle
+268 n02113978 狗,poodle
+269 n02114367 狼,wolf
+270 n02114548 狼,wolf
+271 n02114712 狼,wolf
+272 n02114855 狼,coyote
+273 n02115641 狼,dog
+274 n02115913 狼,fox
+275 n02116738 狼,dog
+276 n02117135 狼,hyaena
+277 n02119022 狐狸,fox
+278 n02119789 狐狸,fox
+279 n02120079 狐狸,fox
+280 n02120505 狐狸,fox
+281 n02123045 猫,tabby
+282 n02123159 猫,tabby
+283 n02123394 猫,persian cat
+284 n02123597 猫,siamese
+285 n02124075 猫,cat
+286 n02125311 猫,catamount
+287 n02127052 猫,catamount
+288 n02128385 豹,leopard
+289 n02128757 豹,snow leopard
+290 n02128925 豹,jaguar
+291 n02129165 狮子,lion
+292 n02129604 老虎,tiger
+293 n02130308 豹,cheetah
+294 n02132136 熊,brown bear
+295 n02133161 熊,bear cub
+296 n02134084 熊,polar bear
+297 n02134418 熊,bear
+298 n02137549 猫鼬,meerkat
+299 n02138441 猫鼬,meerkat
+300 n02165105 昆虫,beetle
+301 n02165456 昆虫,ladybird
+302 n02167151 昆虫,beetle
+303 n02168699 昆虫,beetle
+304 n02169497 昆虫,beetle
+305 n02172182 昆虫,beetle
+306 n02174001 昆虫,beetle
+307 n02177972 昆虫,beetle
+308 n02190166 昆虫,fly
+309 n02206856 昆虫,bee
+310 n02219486 昆虫,ant
+311 n02226429 昆虫,grasshopper
+312 n02229544 昆虫,cricket
+313 n02231487 昆虫,stick insect
+314 n02233338 昆虫,roach
+315 n02236044 昆虫,mantid
+316 n02256656 昆虫,bug
+317 n02259212 昆虫,bug
+318 n02264363 昆虫,bug
+319 n02268443 蜻蜓,dragonfly
+320 n02268853 蜻蜓,dragonfly
+321 n02276258 蝴蝶,butterfly
+322 n02277742 蝴蝶,moth
+323 n02279972 蝴蝶,monarch
+324 n02280649 蝴蝶,butterfly
+325 n02281406 蝴蝶,butterfly
+326 n02281787 蝴蝶,butterfly
+327 n02317335 海星,starfish
+328 n02319095 海胆,sea urchin
+329 n02321529 海洋生物,holothurian
+330 n02325366 兔子,bunny
+331 n02326432 兔子,rabbit
+332 n02328150 兔子,bunny
+333 n02342885 鼠,hamster
+334 n02346627 鼠,hedgehog
+335 n02356798 松鼠,squirrel
+336 n02361337 鼠,squirrel
+337 n02363005 鼠,beaver
+338 n02364673 鼠,guinea pig
+339 n02389026 马,horse
+340 n02391049 斑马,zebra
+341 n02395406 猪,pig
+342 n02396427 猪,pig
+343 n02397096 猪,warthog
+344 n02398521 河马,hippo
+345 n02403003 牛,bull
+346 n02408429 牛,water buffalo
+347 n02410509 牛,bison
+348 n02412080 羊,ram
+349 n02415577 羊,goat
+350 n02417914 羊,goat
+351 n02422106 羊,antelope
+352 n02422699 羊,impala
+353 n02423022 羊,antelope
+354 n02437312 骆驼,camel
+355 n02437616 羊驼,camel
+356 n02441942 狸,ferret
+357 n02442845 狸,ferret
+358 n02443114 狸,polecat
+359 n02443484 狸,ferret
+360 n02444819 狸,otter
+361 n02445715 狸,polecat
+362 n02447366 狸,badger
+363 n02454379 穿山甲,armadillo
+364 n02457408 树懒,sloth
+365 n02480495 狒狒,orangutan
+366 n02480855 猩猩,gorilla
+367 n02481823 猴子,chimpanzee
+368 n02483362 猴子,monkey
+369 n02483708 猴子,monkey
+370 n02484975 猴子,monkey
+371 n02486261 猴子,monkey
+372 n02486410 猴子,baboon
+373 n02487347 猴子,macaque
+374 n02488291 猴子,monkey
+375 n02488702 猴子,monkey
+376 n02489166 猴子,monkey
+377 n02490219 猴子,monkey
+378 n02492035 猴子,monkey
+379 n02492660 猴子,howler
+380 n02493509 猴子,monkey
+381 n02493793 猴子,monkey
+382 n02494079 猴子,squirrel monkey
+383 n02497673 猴子,lemur
+384 n02500267 猴子,lemur
+385 n02504013 大象,elephant
+386 n02504458 大象,elephant
+387 n02509815 浣熊,red panda
+388 n02510455 熊猫,panda
+389 n02514041 鱼,fish
+390 n02526121 鱼,eel
+391 n02536864 鱼,salmon
+392 n02606052 鱼,fish
+393 n02607072 鱼,fish
+394 n02640242 鱼,fish
+395 n02641379 鱼,fish
+396 n02643566 鱼,fish
+397 n02655020 鱼,blowfish
+398 n02666196 算盘,abacus
+399 n02667093 穆斯林,dress
+400 n02669723 学士服,graduate
+401 n02672831 手风琴,accordion
+402 n02676566 吉他,guitar
+403 n02687172 航空母舰,aircraft carrier
+404 n02690373 飞机,airliner
+405 n02692877 飞艇,airship
+406 n02699494 教堂,altar
+407 n02701002 救护车,ambulance
+408 n02704792 水陆两用车 check,vehicle
+409 n02708093 钟,clock
+410 n02727426 箱子,beehive
+411 n02730930 围裙,apron
+412 n02747177 垃圾箱,garbage
+413 n02749479 枪,gun
+414 n02769748 背包,backpack
+415 n02776631 面包柜,bakery
+416 n02777292 体操,beam
+417 n02782093 热气球,balloon
+418 n02783161 钢笔,pen
+419 n02786058 邦迪,band aid
+420 n02787622 乐器,banjo
+421 n02788148 楼梯,balustrade
+422 n02790996 杠铃,barbell
+423 n02791124 座椅,chair
+424 n02791270 理发,barber shop
+425 n02793495 木屋,barn
+426 n02794156 表,clock
+427 n02795169 酒桶,barrel
+428 n02797295 手推车,handcart
+429 n02799071 棒球,baseball
+430 n02802426 篮球,basketball
+431 n02804414 婴儿,infant bed
+432 n02804610 乐器,clarinet
+433 n02807133 游泳,swim cap
+434 n02808304 婴儿毛巾,bath towel
+435 n02808440 浴缸,bath
+436 n02814533 轿车 check,wagon
+437 n02814860 灯塔,lighthouse
+438 n02815834 烧杯,beaker
+439 n02817516 守卫,guard
+440 n02823428 啤酒,beer bottle
+441 n02823750 啤酒,beer glass
+442 n02825657 建筑,bell tower
+443 n02834397 围兜,bib
+444 n02835271 双人自行车,bicycle
+445 n02837789 比基尼,bikini
+446 n02840245 笔记本,binder
+447 n02841315 望远镜,binocular
+448 n02843684 信箱,bird feeder
+449 n02859443 小屋,boat house
+450 n02860847 雪橇,sleigh
+451 n02865351 项链,bolo tie
+452 n02869837 帽子,bonnet
+453 n02870880 书柜,bookcase
+454 n02871525 书店,bookstore
+455 n02877765 瓶盖,bottle cap
+456 n02879718 弓箭,bow
+457 n02883205 领结,bow tie
+458 n02892201 墓碑,brass
+459 n02892767 胸罩,bandeau
+460 n02894605 海岸,mole
+461 n02895154 盔甲,armor
+462 n02906734 扫帚,broom
+463 n02909870 水桶,barrel
+464 n02910353 皮带,belt buckle
+465 n02916936 防弹背心,bulletproof vest
+466 n02917067 火车,bullet train
+467 n02927161 肉铺,market
+468 n02930766 出租车 check,taxi
+469 n02939185 锅,caldron
+470 n02948072 蜡烛,candle
+471 n02950826 炮,cannon
+472 n02951358 艇,canoe
+473 n02951585 订书机,can opener
+474 n02963159 毛衣,cardigan
+475 n02965783 反光镜,car mirror
+476 n02966193 旋转木马,carousel
+477 n02966687 工具箱,tool
+478 n02971356 盒子,carton
+479 n02974003 轮胎,wheel
+480 n02977058 取款机,atm
+481 n02978881 磁带,cassette
+482 n02979186 磁带,radio
+483 n02980441 城堡,castle
+484 n02981792 帆船,catamaran
+485 n02988304 cd播放器,electronic
+486 n02992211 大提琴,cello
+487 n02992529 手机,smartphone
+488 n02999410 铁链,chain
+489 n03000134 铁丝网,fence
+490 n03000247 铁丝网,chain mail
+491 n03000684 电锯,chain saw
+492 n03014705 木箱,chest
+493 n03016953 木柜,chiffonier
+494 n03017168 锣鼓,clock
+495 n03018349 柜子,cabinet
+496 n03026506 袜子,stocking
+497 n03028079 教堂,church
+498 n03032252 剧院,cinema
+499 n03041632 刀,knife
+500 n03042490 堡垒,rock formation
+501 n03045698 斗篷,cloak
+502 n03047690 鞋子,slipper
+503 n03062245 瓶子,cocktail shaker
+504 n03063599 杯子,coffee cup
+505 n03063689 壶,coffeepot
+506 n03065424 螺旋,spiral
+507 n03075370 锁,combination lock
+508 n03085013 键盘,keyboard
+509 n03089624 糖果,candy store
+510 n03095699 船,container ship
+511 n03100240 轿车 check,convertible
+512 n03109150 开瓶器,bottle screw
+513 n03110669 号（乐器）,trumpet
+514 n03124043 靴子,cowboy boot
+515 n03124170 帽子,cowboy hat
+516 n03125729 婴儿床,cradle
+517 n03126707 起重机,crane
+518 n03127747 头盔,motorcycle helmet
+519 n03127925 木箱,crate
+520 n03131574 婴儿床,infant bed
+521 n03133878 电饭锅,crock pot
+522 n03134739 推球,ball
+523 n03141823 拐杖,crutch
+524 n03146219 盔甲,armor
+525 n03160309 水库,dam
+526 n03179701 办公桌,computer desk
+527 n03180011 电脑,desktop computer
+528 n03187595 电话机,phone
+529 n03188531 尿布,diaper
+530 n03196217 闹钟,digital clock
+531 n03197337 手表,watch
+532 n03201208 餐桌,board
+533 n03207743 垫子,dishrag
+534 n03207941 洗碗柜,dish washer
+535 n03208938 车轮,brake
+536 n03216828 港口,dock
+537 n03218198 雪橇,sleigh
+538 n03220513 穹顶,dome
+539 n03223299 地毯,doormat
+540 n03240683 油田,oil
+541 n03249569 鼓,drum
+542 n03250847 鼓棒,drumstick
+543 n03255030 哑铃,dumbbell
+544 n03259280 锅,pan
+545 n03271574 风扇,blade
+546 n03272010 电吉他,guitar
+547 n03272562 火车,passenger train
+548 n03290653 电视机,entertainment center
+549 n03291819 信,envelope
+550 n03297495 咖啡机,espresso
+551 n03314780 化妆品,face powder
+552 n03325584 绒毛,feather
+553 n03337140 柜子,file
+554 n03344393 喷泉,pilot boat
+555 n03345487 消防车,fire truck
+556 n03347037 壁炉,fireplace
+557 n03355925 旗杆,flag pole
+558 n03372029 笛子,flute
+559 n03376595 座椅,folding chair
+560 n03379051 橄榄球,football helmet
+561 n03384352 叉车,forklift
+562 n03388043 喷泉,fountain
+563 n03388183 钢笔,fountain pen
+564 n03388549 床,canopy bed
+565 n03393912 火车,railcar
+566 n03394916 圆号,bass horn
+567 n03400231 平底锅,frying pan
+568 n03404251 裘皮,fur coat
+569 n03417042 卡车 check,garbage truck
+570 n03424325 面具,gasmask
+571 n03425413 加油,gas station
+572 n03443371 酒杯,wine glass
+573 n03444034 卡丁车,karting
+574 n03445777 高尔夫,golf
+575 n03445924 高尔夫车,golf cart
+576 n03447447 小船,rowboat
+577 n03447721 锣鼓,instrument
+578 n03450230 婚纱,gown
+579 n03452741 钢琴,piano
+580 n03457902 大棚,nursery
+581 n03459775 轿车 车标,grille
+582 n03461385 菜场,market
+583 n03467068 断头台,blade
+584 n03476684 发饰,pin
+585 n03476991 发蜡,hair spray
+586 n03478589 坦克,tank
+587 n03481172 榔头,hammer
+588 n03482405 竹筒,hamper
+589 n03483316 吹风机,hair drier
+590 n03485407 pos机,smartphone
+591 n03485794 手帕,handkerchief
+592 n03492542 硬盘,circuit board
+593 n03494278 口风琴,mouth organ
+594 n03495258 竖琴,mouth organ
+595 n03496892 起重机,harvester
+596 n03498962 斧头,ax
+597 n03527444 手枪,strap
+598 n03529860 电视机,home theater
+599 n03530642 蜂巢,beehive
+600 n03532672 钩子,hook
+601 n03534580 裙子,dress
+602 n03535780 体操,high bar
+603 n03538406 马车,horse cart
+604 n03544143 沙漏,hourglass
+605 n03584254 音乐播放器,ipod
+606 n03584829 电熨斗,iron
+607 n03590841 南瓜灯,halloween pumpkin
+608 n03594734 牛仔裤,jeans
+609 n03594945 吉普车 check,jeep
+610 n03595614 t恤,t-shirt
+611 n03598930 拼图,jigsaw puzzle
+612 n03599486 黄包车,rickshaw
+613 n03602883 操纵杆,joystick
+614 n03617480 和服,kimono
+615 n03623198 护具,knee pad
+616 n03627232 绳结,knot
+617 n03630383 医生,lab coat
+618 n03633091 勺子,ladle
+619 n03637318 灯,lamp shade
+620 n03642806 笔记本电脑,laptop
+621 n03649909 割草机,mower
+622 n03657121 镜头盖,camera
+623 n03658185 小刀,blade
+624 n03661043 图书馆,library
+625 n03662601 救生船,lifeboat
+626 n03666591 打火机,light
+627 n03670208 加长车,limo
+628 n03673027 轮船,liner
+629 n03676483 口红,lipstick
+630 n03680355 鞋子,loafer
+631 n03690938 护肤品,cosmetic
+632 n03691459 音响,speaker
+633 n03692522 放大镜,magnifying glass
+634 n03697007 原木,lumber
+635 n03706229 指南针,compass
+636 n03709823 包,handbag
+637 n03710193 邮箱,mailbox
+638 n03710637 泳衣,swimwear
+639 n03710721 泳衣,swimwear
+640 n03717622 窨井盖,manhole cover
+641 n03720891 手摇铃,maraca
+642 n03721384 木琴,instrument
+643 n03724870 面具,mask
+644 n03729826 火柴,match
+645 n03733131 绳子,festival
+646 n03733281 迷宫,maze
+647 n03733805 烧杯,measuring cup
+648 n03742115 冰箱,medicine cabinet
+649 n03743016 石柱,rock formation
+650 n03759954 话筒,microphone
+651 n03761084 微波炉,microwave
+652 n03763968 军人,military uniform
+653 n03764736 水壶,milk can
+654 n03769881 小客车,minibus
+655 n03770439 短裙,miniskirt
+656 n03770679 面包车,minivan
+657 n03773504 导弹,missile
+658 n03775071 手套,glove
+659 n03775546 碗,mixing bowl
+660 n03776460 房车,manufactured home
+661 n03777568 老爷车,antique
+662 n03777754 路由器,router
+663 n03781244 建筑,monastery
+664 n03782006 显示器,monitor
+665 n03785016 摩托车,moped
+666 n03786901 砚,mortar
+667 n03787032 学士帽,cap
+668 n03788195 建筑,mosque
+669 n03788365 蚊帐,canopy
+670 n03791053 助动车,scooter
+671 n03792782 自行车,mountain bike
+672 n03792972 帐篷,tent
+673 n03793489 键盘鼠标,mouse
+674 n03794056 捕鼠夹,mousetrap
+675 n03796401 货车 卡车,trailer truck
+676 n03803284 狗嘴套,muzzle
+677 n03804744 钉子,screw
+678 n03814639 颈托,brace
+679 n03814906 项链,necklace
+680 n03825788 奶瓶,baby bottle
+681 n03832673 笔记本电脑,notebook
+682 n03837869 建筑,obelisk
+683 n03838899 黑管,hautboy
+684 n03840681 埙,sweet potato
+685 n03841143 仪表盘,dashboard
+686 n03843555 机油滤清器,can
+687 n03854065 管风琴,pipe organ
+688 n03857828 示波器,radio
+689 n03866082 礼服,dress
+690 n03868242 牛车,wagon
+691 n03868863 呼吸器,gasmask
+692 n03871628 零食,package
+693 n03873416 划桨,paddle
+694 n03874293 水轮,wheel
+695 n03874599 锁,padlock
+696 n03876231 刷子,paint brush
+697 n03877472 睡衣,sleepwear
+698 n03877845 建筑,palace
+699 n03884397 乐器,instrument
+700 n03887697 纸巾,paper towel
+701 n03888257 降落伞,parachute
+702 n03888605 体操,equipment
+703 n03891251 长椅,park bench
+704 n03891332 停车缴费器,parking meter
+705 n03895866 火车,coach
+706 n03899768 院子,terrace
+707 n03902125 公用电话,payphone
+708 n03903868 柱子,footstall
+709 n03908618 文具袋,pencil case
+710 n03908714 卷笔刀,pencil sharpener
+711 n03916031 香水,perfume
+712 n03920288 培养皿,lid
+713 n03924679 打印机,printer
+714 n03929660 吉他拨片,plectrum
+715 n03929855 头盔,helmet
+716 n03930313 栅栏,paling
+717 n03930630 轿车,pick up
+718 n03933933 桥,bridge
+719 n03935335 储蓄罐,piggy bank
+720 n03937543 药丸,bottle
+721 n03938244 枕头,pillow
+722 n03942813 乒乓球,table tennis
+723 n03944341 风车,windmill
+724 n03947888 帆船,pirate
+725 n03950228 茶壶,pitcher
+726 n03954731 刨子,plane
+727 n03956157 建筑,dome
+728 n03958227 塑料袋,plastic
+729 n03961711 碗架,shelf
+730 n03967562 推土机,plow
+731 n03970156 搋子,hammer
+732 n03976467 相机,film camera
+733 n03976657 杆子,telegraph pole
+734 n03977966 警车,police van
+735 n03980874 披风,poncho
+736 n03982430 桌球,billiard table
+737 n03983396 瓶子,bottle
+738 n03991062 盆栽,pot
+739 n03992509 陶艺,wheel
+740 n03995372 钻机,drill
+741 n03998194 毯子,carpet
+742 n04004767 打印机,printer
+743 n04005630 监狱,prison
+744 n04008634 导弹,missile
+745 n04009552 投影仪,projector
+746 n04019541 冰球,hockey
+747 n04023962 拳击,punch bag
+748 n04026417 手提袋,handbag
+749 n04033901 羽毛笔,feather
+750 n04033995 床 被子,quilt
+751 n04037443 赛车,race car
+752 n04039381 网球,racket
+753 n04040759 加热器,radiator
+754 n04041544 收音机,radio
+755 n04044716 卫星接收器,telescope
+756 n04049303 酒桶,barrel
+757 n04065272 房车,recreational vehicle
+758 n04067472 鱼竿,reel
+759 n04069434 相机,camera
+760 n04070727 冰箱,fridge
+761 n04074963 遥控器,remote
+762 n04081281 餐厅,restaurant
+763 n04086273 手枪,handgun
+764 n04090263 狙击枪,rifle
+765 n04099969 摇椅,rocking chair
+766 n04111531 烤箱,oven
+767 n04116512 橡皮,eraser
+768 n04118538 橄榄球,rugby ball
+769 n04118776 尺,ruler
+770 n04120489 运动鞋,running shoe
+771 n04125021 保险箱,safe
+772 n04127249 回形针,pin
+773 n04131690 调料瓶,salt shaker
+774 n04133789 拖鞋,sandal
+775 n04136333 长裙,dress
+776 n04141076 萨克斯,sax
+777 n04141327 剑,sword
+778 n04141975 秤,scale
+779 n04146614 校车,school bus
+780 n04147183 帆船,schooner
+781 n04149813 计分板,scoreboard
+782 n04152593 显示器,screen
+783 n04153751 螺丝,screw
+784 n04154565 螺丝刀,screwdriver
+785 n04162706 安全带,seat belt
+786 n04179913 缝纫机,sewing machine
+787 n04192698 盾牌,shield
+788 n04200800 鞋店,shoe shop
+789 n04201297 榻榻米,window
+790 n04204238 购物篮,shopping basket
+791 n04204347 购物车,shopping cart
+792 n04208210 铲子,shovel
+793 n04209133 浴帽,shower cap
+794 n04209239 浴帘,shower curtain
+795 n04228054 滑雪,ski
+796 n04229816 面罩,mask
+797 n04235860 睡袋,sleeping bag
+798 n04238763 游标卡尺,ruler
+799 n04239074 移门,doorway
+800 n04243546 老虎机,slot
+801 n04251144 游泳眼镜,snorkel
+802 n04252077 滑雪车,snowmobile
+803 n04252225 铲雪车,snowplow
+804 n04254120 洗手液,soap dispenser
+805 n04254680 足球,football
+806 n04254777 袜子,sock
+807 n04258138 太阳能板,solar battery
+808 n04259630 帽子,sombrero
+809 n04263257 碗,soup bowl
+810 n04264628 键盘,typewriter
+811 n04265275 电热器,heater
+812 n04266014 航天飞船,space shuttle
+813 n04270147 锅铲,spatula
+814 n04273569 快艇,speedboat
+815 n04275548 蜘蛛网,spider web
+816 n04277352 毛线,needle
+817 n04285008 运动型轿车,sports car
+818 n04286575 探照灯,lamp
+819 n04296562 乐队,stage
+820 n04310018 蒸汽机车,steam locomotive
+821 n04311004 桥,bridge
+822 n04311174 鼓,drum
+823 n04317175 听诊器,stethoscope
+824 n04325704 担架,shawl
+825 n04326547 石堆,wall
+826 n04328186 秒表,stop watch
+827 n04330267 火炉,stove
+828 n04332243 滤网,strainer
+829 n04335435 公交车,trolley
+830 n04336792 担架,stretcher
+831 n04344873 沙发,day bed
+832 n04346328 皇宫,stupa
+833 n04347754 轮船,submarine
+834 n04350905 西装,suit
+835 n04355338 日晷,sundial
+836 n04355933 墨镜,goggles
+837 n04356056 墨镜,sunglasses
+838 n04357314 防晒霜,cosmetic
+839 n04366367 桥,suspension bridge
+840 n04367480 拖把,swab
+841 n04370456 连帽衫,sweatshirt
+842 n04371430 沙滩裤,swimwear
+843 n04371774 秋千,swing
+844 n04372370 开关,switch
+845 n04376876 针筒,syringe
+846 n04380533 台灯,table lamp
+847 n04389033 坦克,army tank
+848 n04392985 磁带播放器,mp3 player
+849 n04398044 茶壶,tea pot
+850 n04399382 毛绒玩具,teddy
+851 n04404412 电视机,television
+852 n04409515 网球,tennis
+853 n04417672 草屋,hut
+854 n04418357 幕布,curtain
+855 n04423845 指套,thimble
+856 n04428191 装甲车,trailer
+857 n04429376 皇位,throne
+858 n04435653 瓦片,tile roof
+859 n04442312 面包机,toaster
+860 n04443257 烟酒店,store
+861 n04447861 马桶,toilet seat
+862 n04456115 火炬,torch
+863 n04458633 图腾,totem pole
+864 n04461696 大卡车,tow truck
+865 n04462240 玩具店,toyshop
+866 n04465501 拖拉机,tractor
+867 n04467665 大货车,trailer truck
+868 n04476259 碟子 盘子,tray
+869 n04479046 风衣,trench coat
+870 n04482393 儿童自行车,tricycle
+871 n04483307 船,sailboat
+872 n04485082 三脚架,tripod
+873 n04486054 拱门,archway
+874 n04487081 巴士,bus
+875 n04487394 长号,trombone
+876 n04493381 浴缸,tub
+877 n04501370 闸机,doorway
+878 n04505470 打字机,typewriter
+879 n04507155 伞,umbrella
+880 n04509417 独轮车,monocycle
+881 n04515003 钢琴,piano
+882 n04517823 吸尘器,vacuum
+883 n04522168 花瓶,vase
+884 n04523525 拱廊,vault
+885 n04525038 珊瑚绒,velvet
+886 n04525305 自动贩卖机,vending machine
+887 n04532106 教皇袍,garment
+888 n04532670 桥,viaduct
+889 n04536866 小提琴,violin
+890 n04540053 排球,volleyball
+891 n04542943 煎饼锅,waffle iron
+892 n04548280 挂钟,wall clock
+893 n04548362 钱夹,handbag
+894 n04550184 柜子,closet
+895 n04552348 飞机,fighter jet
+896 n04553703 台盆,basin
+897 n04554684 洗衣机,washer
+898 n04557648 水瓶,bottle
+899 n04560804 水壶,jug
+900 n04562935 煤气包,water tower
+901 n04579145 水壶,jug
+902 n04579432 哨子,whistle
+903 n04584207 头发,wig
+904 n04589890 窗户,window screen
+905 n04590129 百叶窗,curtain
+906 n04591157 领带,tie
+907 n04591713 葡萄酒,wine bottle
+908 n04592741 飞机,wing
+909 n04596742 炒锅,wok
+910 n04597913 勺子,wooden spoon
+911 n04599235 围巾,wool
+912 n04604644 栅栏,fence
+913 n04606251 沉船,shipwreck
+914 n04612504 帆船,sailboat
+915 n04613696 蒙古包,yurt
+916 n06359193 网页,website
+917 n06596364 海报,comic book
+918 n06785654 填字游戏,chessboard
+919 n06794110 交通标志,street sign
+920 n06874185 交通灯,traffic light
+921 n07248320 书,book
+922 n07565083 菜单,menu
+923 n07579787 菜,plate
+924 n07583066 菜,guacamole
+925 n07584110 菜,soup
+926 n07590611 菜,hotpot
+927 n07613480 蛋糕,dessert
+928 n07614500 冰激凌,icecream
+929 n07615774 棒冰,lollipop
+930 n07684084 面包,bread
+931 n07693725 甜甜圈,bagel
+932 n07695742 面包,pretzel
+933 n07697313 汉堡,cheeseburger
+934 n07697537 热狗,hot dog
+935 n07711569 焗饭,mashed potato
+936 n07714571 蔬菜,cabbage
+937 n07714990 西蓝花,broccoli
+938 n07715103 花椰菜,cauliflower
+939 n07716358 蔬菜,courgette
+940 n07716906 金瓜,melon
+941 n07717410 南瓜,squash
+942 n07717556 南瓜,squash
+943 n07718472 黄瓜,cucumber
+944 n07718747 蔬菜,artichoke
+945 n07720875 青椒 黄椒 红椒,bell pepper
+946 n07730033 花,thistle
+947 n07734744 蘑菇,mushroom
+948 n07742313 苹果,apple
+949 n07745940 草莓,strawberry
+950 n07747607 橙子,orange
+951 n07749582 柠檬,lemon
+952 n07753113 水果,fig
+953 n07753275 菠萝,pineapple
+954 n07753592 香蕉,banana
+955 n07754684 榴莲,jack
+956 n07760859 水果,artichoke
+957 n07768694 石榴,pomegranate
+958 n07802026 草垛,hay
+959 n07831146 意大利面,spaghetti
+960 n07836838 甜品,chocolate
+961 n07860988 面团,dough
+962 n07871810 肉酱,meat
+963 n07873807 披萨,pizza
+964 n07875152 派,pie
+965 n07880968 肉卷,burrito
+966 n07892512 红酒,red wine
+967 n07920052 咖啡,espresso
+968 n07930864 茶,cup
+969 n07932039 饮料杯,alcohol
+970 n09193705 雪山,alp
+971 n09229709 泡泡,bubble
+972 n09246464 悬崖,cliff
+973 n09256479 珊瑚,coral reef
+974 n09288635 温泉,fountain
+975 n09332890 风景,lakeshore
+976 n09399592 小岛,headland
+977 n09421951 沙滩,coast
+978 n09428293 海滩,coast
+979 n09468604 瀑布 溪流,valley
+980 n09472597 火山,volcano
+981 n09835506 棒球,baseball player
+982 n10148035 婚礼,groom
+983 n10565667 潜水,diver
+984 n11879895 油菜花,rapeseed
+985 n11939491 菊花,daisy
+986 n12057211 植物,orchid
+987 n12144580 玉米,corn
+988 n12267677 松果,acorn
+989 n12620546 植物,hip
+990 n12768682 栗子,chestnut
+991 n12985857 菌菇,fungi
+992 n12998815 菌菇,fungi
+993 n13037406 菌菇,fungi
+994 n13040303 菌菇,fungi
+995 n13044778 菌菇,fungi
+996 n13052670 菌菇,mushroom
+997 n13054560 菌菇,mushroom
+998 n13133613 玉米,corn
+999 n15075141 卷筒纸,toilet paper
