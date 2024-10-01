@@ -1,5 +1,4 @@
-## ![Static Badge](https://img.shields.io/badge/ACMMM-2023)
- TagOOD: A Novel Approach to Out-of-Distribution Detection via Vision-Language Representations and Class Center Learning
+## ![Static Badge]([https://img.shields.io/badge/](https://img.shields.io/badge/ACMMM-2023-blue)TagOOD: A Novel Approach to Out-of-Distribution Detection via Vision-Language Representations and Class Center Learning
 
 
 ## Requirements
