@@ -42,7 +42,7 @@ Please put all downloaded OOD datasets into ```./data/ood_data/```.
 
 ### Pretrained Models
 
-Download our pretrained classifier model from [here](https://drive.google.com/file/d/1TeIg8qgN--1BoOENm8q68umNVpOjDYuF/view?usp=drive_link).
+Download our pretrained classifier model from [here](https://drive.google.com/file/d/1TeIg8qgN--1BoOENm8q68umNVpOjDYuF/view?usp=sharing).
 
 ## Demo code for ImageNet Experiment
 
